@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <string-array name="phone_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
